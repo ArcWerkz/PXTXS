@@ -1,0 +1,17 @@
+Day13(g)-F(solo)[gun only]:
+
+You look in the dumpster and find an empty glass bottle.
+You aim the bottle away from the carports and throw it.
+The shamblers are distracted momentarily, as they shuffle toward the sound of glass shattering.
+
+You sprint toward the carports.
+As you turn the corner, you whip your keys out as you spot your car.
+You unlock the doors and quickly get in. 
+
+You close the door and lock it while sliding the key into the ignition.
+As you hear your engine turn over, the shamblers appear from around the corner.
+
+You put the car in reverse and drive right over the sidewalk, ignoring the embankment, altogether.
+You first impulse is to get far away.
+
+[CHAPTER1-END]

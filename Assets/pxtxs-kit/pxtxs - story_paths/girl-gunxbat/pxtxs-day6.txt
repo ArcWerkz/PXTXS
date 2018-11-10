@@ -1,0 +1,19 @@
+Day6(girl)[gun and bat]:
+You look out of your peephole and see nothing but an empty, well-lit hallway.
+You put your ear to the door and all seems to be quiet for now. 
+
+Considering where your apartment is located, you realize that you have a hell of a walk ahead of you to reach the carports.
+After considering the risks one last time, you say goodbye to your apartment.
+
+You motion for her to stay close to you and make your way down the corridor leading to the elevators. 
+Unfortunately, only one seems to be in service at the moment. 
+
+Alex looks at you and you can see the fear in her eyes.
+Even as a momentary sense of panic washes over you, you take her hand and reassure her.
+You hand her the backpack and she slips it over her shoulders without saying a word.
+
+The stairs are located behind an adjacent doorway. 
+
+Choice1: Call the elevator.
+
+Choice2: Take the stairs.

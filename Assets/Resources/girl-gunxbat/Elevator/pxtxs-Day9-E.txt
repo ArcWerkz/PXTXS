@@ -1,0 +1,25 @@
+Day9(g)-E(girl)[gun and bat]:
+
+
+As the elevator hums while making its descent,
+you contemplate the thought of becoming one of those...things.
+
+The elevator comes to a screeching halt at the second floor, 
+forcing you to focus on the current pressing matter--why the elevator did not reach the lobby.
+The doors slide halfway open, as if blocked by an obstruction.
+
+Smoke begins to fill the elevator.
+You cover your face and squeeze out of the narrow space provided.
+The smoke is thick, obscuring your vision and making it hard to stand up straight.
+
+There doesn't seem to be any shamblers nearby, but the smell of burning flesh is definitely apparent.
+Alex seems to be struggling to breathe, as tears well up in her eyes.
+
+The smoke doesn't seem to be subsiding, and the fire must be spreading on this floor.
+The need to get outside becomes mroe pressing every second you waste.
+
+You consider taking the stairs the rest of the way, but recall that there is a fire escape located on the floor somewhere as well.
+
+Choice1: Take the stairs.
+
+Choice2: Look for the fire escape.

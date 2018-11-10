@@ -1,0 +1,18 @@
+Day7-E(girl)[gun and bat]:
+You press the down button to call the elevator. 
+The chime sounds to notify you that it has reached your floor.
+Unfortunately, it seems to have alerted the shamblers nearby as well.
+
+The silent hallway has become alive with the sound of shuffling feet and groans.
+Your anxiety becomes clear, as your hands shake, waiting for the doors to open.
+
+As the elevator doors slide open, you let out a sigh of relief and instruct her to get in first.
+You press the button to reach the Ground floor.
+
+Just as the doors begin to slide closed, a decayed hand reaches in to pry them open.
+
+You consider your options as the shamblers work at the doors.
+
+Choice1: Use your gun.
+
+Choice2: Use your bat to fend them off.

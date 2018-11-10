@@ -1,0 +1,18 @@
+Day6(solo)[gun and bat]:
+You look out of your peephole and see nothing but an empty, well-lit hallway.
+You put your ear to the door and all seems to be quiet for now. 
+
+Considering where your apartment is located, you realize that you have a hell of a walk ahead of you to reach the carports.
+After considering the risks one last time, you say goodbye to your apartment and make your way down the corridor leading to the elevators.
+
+Unfortunately, only one seems to be in service at the moment. 
+
+A momentary sense of panic rushes over you, as you consider the possibility of being ambushed.
+
+The stairs are located behind an adjacent doorway. 
+
+
+
+Choice1: Call the elevator.
+
+Choice2: Take the stairs.

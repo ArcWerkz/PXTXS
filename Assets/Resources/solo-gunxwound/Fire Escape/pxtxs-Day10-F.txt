@@ -1,0 +1,17 @@
+Day10(g)-F(solo)[gun and wound]:
+
+As the sprinklers dowse everything, including you, you proceed down the corridor, as quickly as possible.
+You spend most of the time, holding your breath.
+
+There doesn't seem to be much movement on this floor, as far as you can see. 
+You crouch through the hallway, with your gun in hand.
+You slow down as you approach an intersection.
+You notice the smoke has subsided a bit, and you are able to breathe freely.
+
+You pay no attention to the apartment doors and look only for the emergency exit.
+As you pass through the hallway, you see the red lights of the exit sign through the thinning black smoke.
+
+Your first instinct is to run for it. 
+
+Choice1: Run for the door.
+Choice2: Pace yourself.

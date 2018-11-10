@@ -1,0 +1,30 @@
+Day4g:
+She wakes up abruptly, as if recovering from a nightmare, sweating and panting.
+She looks to you with a blank expression, then sits up. She seems to be awake.
+
+"How long was I out?" She asks, slurring her speech a bit. You didn't notice before, but for some reason, you can smell the alcohol she must have drank at the party she mentioned in her sleep.
+
+"Only a few minutes." You reply.
+
+"Thanks for letting me in. You literally saved my life." She mutters, still seemingly in shock.
+
+You ask her for her name.
+
+"Alex, Alex Whitter" She replies, as if her name bears some weight.
+
+You fall silent. Just as you sip your coffee, you realize that there is a chance she may be infected.
+
+You begin theorizing the amount of time it would take for the infection to take over the human body, and if you would have a chance of surviving a sudden attack should she turn.
+
+Either way, you have to be sure of the risks.
+
+
+You turn to her and consider your approach before asking:
+
+Day5g: "We have to get you cleaned up so we can check for infections. I'll have a change of clothes for you. You can use my shower."
+
+
+Day5n: "You're scratched up pretty bad. Were you bitten by one of those things?"
+
+
+Day5b: Say nothing.

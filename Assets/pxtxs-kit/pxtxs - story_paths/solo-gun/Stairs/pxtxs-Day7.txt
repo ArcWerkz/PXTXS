@@ -1,0 +1,20 @@
+Day7-S(solo)[gun only]:
+You decide against the elevator and approach the doors leading to the stairs.
+The cool, dim lighting does not pose much of a problem for you as you descend to the fourth floor landing.
+The stench is another question. Rotting flesh and the putrescent odor of death spills into your nostrils, making it hard to breathe freely.
+
+You detect the faint smell of smoke.
+
+"Must be coming from a lower floor", you think to yourself.
+
+You catch your breath for a brief moment then proceed to the third floor landing.
+The smell of smoke begins to overpower the stench of dead bodies.
+
+The smoke has become thicker and the temperature has raised considerably, making the handrails nearly too hot to touch.
+As you begin to feel the effects of inhaling smoke, you decide it may be a good idea to think before moving forward.
+
+Choice1: Continue downstairs, but pick up the pace.
+
+Choice2: Duck into the third floor and check the elevators.
+
+Choice3: Return to the fourth floor and check the elevators.
