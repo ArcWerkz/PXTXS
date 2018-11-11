@@ -18,12 +18,12 @@ MonoBehaviour:
   m_fontInfo:
     Name: White On Black
     PointSize: 111
-    Scale: 0
+    Scale: 1
     CharacterCount: 26
     LineHeight: 127.6875
     Baseline: 0
     Ascender: 93
-    CapHeight: 0
+    CapHeight: 100.3125
     Descender: -22.625
     CenterLine: 0
     SuperscriptOffset: 93
@@ -33,7 +33,7 @@ MonoBehaviour:
     UnderlineThickness: 8.129883
     strikethrough: 25.59091
     strikethroughThickness: 8.129883
-    TabWidth: 0
+    TabWidth: 277.5
     Padding: 0
     AtlasWidth: 512
     AtlasHeight: 512
@@ -400,9 +400,9 @@ Material:
     - _OutlineWidth: 0
     - _PerspectiveFilter: 0.875
     - _Reflectivity: 10
-    - _ScaleRatioA: 1
-    - _ScaleRatioB: 1
-    - _ScaleRatioC: 1
+    - _ScaleRatioA: 0
+    - _ScaleRatioB: 0
+    - _ScaleRatioC: 0
     - _ScaleX: 1
     - _ScaleY: 1
     - _ShaderFlags: 0

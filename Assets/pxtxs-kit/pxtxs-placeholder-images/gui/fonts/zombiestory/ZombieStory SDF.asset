@@ -11,19 +11,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
   m_Name: ZombieStory SDF
   m_EditorClassIdentifier: 
-  hashCode: 0
+  hashCode: 1653657156
   material: {fileID: 21297576959585740}
-  materialHashCode: 0
+  materialHashCode: 2130868815
   fontAssetType: 1
   m_fontInfo:
     Name: ZombieStory
     PointSize: 272
-    Scale: 0
+    Scale: 1
     CharacterCount: 26
     LineHeight: 312.9375
     Baseline: 0
     Ascender: 174
-    CapHeight: 0
+    CapHeight: 170.4375
     Descender: 0
     CenterLine: 0
     SuperscriptOffset: 174
@@ -33,7 +33,7 @@ MonoBehaviour:
     UnderlineThickness: 19.921875
     strikethrough: 63.272728
     strikethroughThickness: 19.921875
-    TabWidth: 0
+    TabWidth: 680
     Padding: 0
     AtlasWidth: 512
     AtlasHeight: 512
@@ -400,9 +400,9 @@ Material:
     - _OutlineWidth: 0
     - _PerspectiveFilter: 0.875
     - _Reflectivity: 10
-    - _ScaleRatioA: 1
-    - _ScaleRatioB: 1
-    - _ScaleRatioC: 1
+    - _ScaleRatioA: 0
+    - _ScaleRatioB: 0
+    - _ScaleRatioC: 0
     - _ScaleX: 1
     - _ScaleY: 1
     - _ShaderFlags: 0
